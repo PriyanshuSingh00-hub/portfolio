@@ -130,10 +130,7 @@ export const projects = [
 
 export const socials = [
   { name: "Instagram", href: "https://www.instagram.com/priyansh0.af/" },
-  {
-    name: "Youtube",
-    href: "naaa",
-  },
+
   { name: "LinkedIn", href: "https://www.linkedin.com/in/priyanshu-singh-aa19a13a4/" },
   { name: "GitHub", href: "https://github.com/PriyanshuSingh00-hub" },
 ];
