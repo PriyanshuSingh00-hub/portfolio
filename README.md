@@ -1,4 +1,4 @@
-# 🎨 Portfolio
+#  Portfolio
 
 > A modern, interactive portfolio website showcasing projects and skills with stunning animations and 3D experiences.
 
@@ -201,10 +201,10 @@ For inquiries or collaboration, feel free to reach out:
 
 <div align="center">
 
-📧 **Email:** [your-email@example.com]
+📧 **Email:** [priyanshusingh00031@gmail.com]
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Your%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-Your%20Profile-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourprofile)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Your%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-singh-aa19a13a4/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-Your%20Profile-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PriyanshuSingh00-hub)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Your%20Handle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
 </div>
