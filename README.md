@@ -1,6 +1,6 @@
 #  Portfolio
 
-> A modern, interactive portfolio website showcasing projects and skills with stunning animations and 3D experiences.
+> A modern, interactive portfolio website showcasing projects and skills with stunning animations and 3D experiences
 
 <div align="center">
 
